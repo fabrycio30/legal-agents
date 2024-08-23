@@ -59,4 +59,18 @@ Para rodar o projeto, execute o arquivo `main.py`:
 python src/main.py
 ``
 
+### Contribuição
+
+Contribuições são bem-vindas! Caso queira contribuir, siga estas etapas:
+
+i) Faça um fork do repositório.
+ii) Crie uma branch para sua feature (git checkout -b minha-feature).
+iii) Faça commit das suas alterações (git commit -m 'Adicionei uma nova feature').
+iv) Envie para o branch (git push origin minha-feature).
+v) Abra um Pull Request.
+
+
+### Licença
+
+Por enquanto são apenas experimentos iniciais, mas este projeto está sob a licença MIT. Em breve adicionarei o arquivo LICENSE para mais detalhes.
 
