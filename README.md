@@ -1,5 +1,8 @@
-## Projeto: Análise de Petições Iniciais
+## Agentes Jurídicos: Analisando Petições Iniciais brasileiras com crew.ai
 ***
+
+<img style="width: auto; height:auto;" src="https://raw.githubusercontent.com/fabrycio30/legal-agents/main/docs/agents.png" alt="Fluxo dos agentes"/>
+
 
 Este projeto tem como objetivo criar, usando o Crew.ia, uma equipe automatizada para analisar petições iniciais produzidas por advogados independentes. A equipe é composta por agentes especializados que realizam tarefas como mascaramento de dados sensíveis, análise jurídica, pesquisa de legislação e classificação das petições por assunto.
 
