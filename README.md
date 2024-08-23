@@ -26,17 +26,23 @@ Conta e chave de API da OpenAI (se optar por usar serviços da OpenAI)
 
 1 - Clone o repositório:
 
-``
+```
+
 git clone https://github.com/fabrycio30/legal-agents.git
 cd legal-agents
-``
+
+```
 
 2 - Montar um ambiente python para o projeto
 
-``
+```
+
 python -m venv venv
-source venv/bin/activate  # No Windows, use venv\Scripts\activate
-``
+source venv/bin/activate  
+#Para SO Windows, use: venv\Scripts\activate
+
+```
+
 
 3 - Instalar dpendencias do projeto
 
@@ -47,26 +53,33 @@ python -m spacy download pt_core_news_sm
 
 4 - Configure as variáveis de ambiente no arquivo .env:
 
-``
+```
+
 OPENAI_API_KEY=your_openai_api_key_here
-``
+
+```
 
 ### Executando o Projeto. 
 
 Para rodar o projeto, execute o arquivo `main.py`:
 
-``
-python src/main.py
-``
+```
 
+python src/main.py
+
+```
 ### Contribuição
 
 Contribuições são bem-vindas! Caso queira contribuir, siga estas etapas:
 
 i) Faça um fork do repositório.
+
 ii) Crie uma branch para sua feature (git checkout -b minha-feature).
+
 iii) Faça commit das suas alterações (git commit -m 'Adicionei uma nova feature').
+
 iv) Envie para o branch (git push origin minha-feature).
+
 v) Abra um Pull Request.
 
 
