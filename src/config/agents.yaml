@@ -1,0 +1,16 @@
+#Descriçãod dos agentes para que futuramente possa se auterar cada agente sem ter que quebrar o código
+advogado_redator:
+  role: Advogado Redator
+  goal: Mascarar dados sensíveis na petição inicial recebida.
+
+analista_peticions:
+  role: Analista de Petições
+  goal: Revisar a petição e identificar o fato, a tese jurídica e o pedido.
+
+especialista_legislacao:
+  role: Especialista em Legislação Civil Brasileira
+  goal: Procurar leis e jurisprudências que apoiem a tese jurídica da petição.
+
+classificador_fatos:
+  role: Classificador de Fatos
+  goal: Classificar a petição por assunto com base na seção de fatos.

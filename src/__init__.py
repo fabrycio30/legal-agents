@@ -1,0 +1,1 @@
+# marcar o `src` com um pacote Python se mais tarde precisar empacotar tudo e mandar pra algum lugar

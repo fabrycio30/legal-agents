@@ -1,0 +1,13 @@
+#Descriçãod das taslks dos agentes para que futuramente possa se auterar cada agente sem ter que quebrar o código
+
+mascarar_dados_task:
+  description: Mascarar dados sensíveis na petição inicial recebida.
+  expected_output: Uma versão da petição inicial com dados sensíveis mascarados.
+
+analisar_peticao_task:
+  description: Revisar a petição e mapear fato, tese jurídica e pedido.
+  expected_output: Um resumo detalhado dos principais elementos da petição.
+
+verificar_legislacao_task:
+  description: Buscar leis e jurisprudências que apoiem a tese jurídica apresentada.
+  expected

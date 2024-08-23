@@ -1,0 +1,36 @@
+meu_projeto/
+├── docs/
+│   ├── README.md
+│   └── ...
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── agents.py
+│   │   ├── tasks.py
+│   │   └── crew.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── data_processing.py
+│   │   └── nlp_tools.py
+│   ├── config/
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   ├── agents.yaml
+│   │   └── tasks.yaml
+│   ├── tools/
+│   │   ├── __init__.py
+│   │   └── custom_tool.py
+│   └── services/
+│       ├── __init__.py
+│       └── openai_service.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_agents.py
+│   ├── test_tasks.py
+│   └── test_crew.py
+├── .env
+├── requirements.txt
+├── pyproject.toml
+└── setup.py
